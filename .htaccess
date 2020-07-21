@@ -1,0 +1,6 @@
+Desabilitar a indexação de diretório para todos os diretórios usando o htaccess raiz.
+Disable directory indexing for all directories using root htaccess.
+
+# DESATIVAR INDEXING DE DIRETÓRIOS #
+# DISABLING DIRECTORY INDEXING #
+Options -Indexes
